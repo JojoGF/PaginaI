@@ -1,3 +1,7 @@
 footer p:first{
-	text
+	font-weight: bold;
+}
+
+#logo{
+	width:80px;
 }
